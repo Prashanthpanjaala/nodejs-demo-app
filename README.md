@@ -15,26 +15,26 @@ Tools used:
 
 
 
-GitHub
+GitHub:
  GitHub is a platform for hosting and sharing code using Git. It helps developers collaborate by tracking changes, managing versions, and reviewing code. You can create repositories(repos) to store and organize projects. It also offers features like issue tracking and CI/CD workflows.
 
  
  
 
 
- Jenkins
+ Jenkins:
 Jenkins is an automation tool for building and deploying software. It uses pipelines to automate tasks like testing, building, and deploying code. It supports plugins to integrate with various tools. Jenkins makes Continuous Integration and Continuous Delivery (CI/CD) easy.
 
 
 
 
-Docker
+Docker:
 Docker is a tool to create, share, and run lightweight virtualized environments called containers. Containers package code and dependencies together for consistent behavior across systems. It simplifies app deployment and avoids “it works on my machine” issues. Docker images are reusable blueprints for containers.
 
 
 
 
-Node.js
+Node.js:
 Node.js is a runtime that lets you run JavaScript outside the browser. It’s great for building fast and scalable server-side applications. Node.js uses non-blocking, event-driven programming for high performance. It’s commonly used for web servers, APIs, and real-time apps.
 
 
