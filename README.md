@@ -88,7 +88,7 @@ STEP-8: Docker hub registry image
 STEP-9:   Finally Deployed website with public IP and port number.
 
 
-![Screenshot (36)](https://github.com/user-attachments/assets/d1736285-b66c-4bde-a169-f7d3c5e3cf43)
+
 
 
 
