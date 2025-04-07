@@ -86,11 +86,45 @@ STEP-7: Create a Jenkins Job
 STEP-8: Docker hub registry image
 
 STEP-9:   Finally Deployed website with public IP and port number.
+http://18.232.116.59:3000/
+
+
+![Screenshot (41)](https://github.com/user-attachments/assets/f69656d1-94d5-4bc4-86d3-d672faa9f2a9)
+
+![Screenshot (42)](https://github.com/user-attachments/assets/ced4ff11-5880-401a-a45c-3840a909683c)
+
+
+
+
+![Screenshot (45)](https://github.com/user-attachments/assets/b9f7e508-8a14-46b5-84a5-c91d20bf5cd1)
+
+
+![Screenshot (46)](https://github.com/user-attachments/assets/17b7626b-55c9-48a5-bcb7-cc1c2bd7e1e2)
+
+
+
+
+![Screenshot (51)](https://github.com/user-attachments/assets/050ddd32-8db1-416d-aa0e-5f9818cabad5)
+
+![Screenshot (53)](https://github.com/user-attachments/assets/9b197352-5e73-4453-8706-c00600cc181e)
+
+
+
+![Screenshot (54)](https://github.com/user-attachments/assets/6c188136-d8b0-4939-9ca2-f24bd204e54f)
 
 
 
 
 
+![Screenshot (58)](https://github.com/user-attachments/assets/c84f35d0-70b0-48a7-b094-24ac8afeb16b)
 
 
 
+
+![Screenshot (55)](https://github.com/user-attachments/assets/3f5aa3b3-09c9-422f-8213-4ec3a99c7e0f)
+
+
+
+
+
+![Screenshot (56)](https://github.com/user-attachments/assets/b51600ff-98d4-4246-929c-7f3311fd9d71)
