@@ -69,7 +69,7 @@ STEP-3: Install Docker & GIT
 
 
 STEP-4: Install the following dependencies on Jenkins
-1.	NodeJS
+1.	NodeJS (version 16.2.0)
 2.  Docker Pipeline
 3.  pipeline stageview
 
